@@ -1,0 +1,13 @@
+.main{
+    display:flex;
+    flex-direction: row;
+    padding: 10px;
+    }
+    #mainLeft{
+        width:40vw;
+        margin:10px;
+    }
+    #mainRight{
+        width: 40vw;
+        margin:10px;
+    }
